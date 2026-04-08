@@ -18,7 +18,7 @@ Las criaturas digitales pueden comunicarse, evolucionar y gestionar su estado in
 ## 📁 Estructura del proyecto
 
 ```
-nivelacion_python/
+act_fin/
 │
 ├── criatura_base.py
 ├── comunicacion.py
